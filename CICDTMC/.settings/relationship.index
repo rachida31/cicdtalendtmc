@@ -1,1 +1,23 @@
-[ ]
+[ {
+  "baseItem" : {
+    "id" : "_EJm_oO15EeyNQPG2T0mMzA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "built-in",
+    "version" : "Latest",
+    "type" : "context"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_EJm_oO15EeyNQPG2T0mMzA",
+    "version" : "0.1",
+    "type" : "test_case"
+  },
+  "relatedItems" : [ {
+    "id" : "_6BkOEO13EeyNQPG2T0mMzA",
+    "version" : "0.1",
+    "type" : "test_case"
+  } ]
+} ]
